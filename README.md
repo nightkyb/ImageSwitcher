@@ -43,6 +43,8 @@ Add the ImageSwitcher to your layout:
 
 ### Step 3
 
+Java code:
+
 ```java
 imageSwitcher.setImageList(images) // 设置要展示的图片列表
              .setImageLoader(new SwitcherImageLoader() {
