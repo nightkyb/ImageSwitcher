@@ -60,7 +60,8 @@ imageSwitcher.setImageList(images) // 设置要展示的图片列表
               .setStartDelay(300) // 设置动画前延时，默认150ms
               .setHorizontalMultiple(2f) // 设置水平变化参数，默认3f
               .setVerticalMultiple(2f) // 设置垂直变化参数，默认4f
-              .setParticleRadius(4); // 设置粒子基础半径，单位为px，默认1dp
+              .setParticleRadius(4) // 设置粒子基础半径，单位为px，默认1dp
+              .start();
 ```
 
 [Code example](https://github.com/nightkyb/ImageSwitcher/blob/master/app/src/main/java/com/nightkyb/imageswitcherdemo/MainActivity.java)
