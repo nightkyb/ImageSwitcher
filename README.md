@@ -1,5 +1,5 @@
 # ImageSwitcher
-Android图片轮播切换组件，提供多种切换效果。
+Android图片轮播组件，提供多种切换效果。
 
 ## Demo
 
