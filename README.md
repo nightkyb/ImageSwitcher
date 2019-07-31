@@ -1,4 +1,4 @@
-# ImageSwitcher
+# ImageSwitcher [![](https://jitpack.io/v/nightkyb/ImageSwitcher.svg)](https://jitpack.io/#nightkyb/ImageSwitcher)
 Android图片轮播组件，提供多种切换效果。
 
 ## Demo
