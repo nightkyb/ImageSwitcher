@@ -1,4 +1,3 @@
 # CommonLib
-Android项目基础库，整理了一些基本工具类以及UI控件。
-- fff
--- ffff
+Android图片轮播切换组件，提供多种切换效果。
+
