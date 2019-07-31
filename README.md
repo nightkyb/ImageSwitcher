@@ -3,6 +3,8 @@ Android图片轮播切换组件，提供多种切换效果。
 
 ## Demo
 
+![](https://github.com/nightkyb/ImageSwitcher/blob/master/demo.gif)
+
 ## Usage
 
 ### Step 1
@@ -41,7 +43,6 @@ Add the ImageSwitcher to your layout:
 
 [Code example](https://github.com/nightkyb/ImageSwitcher/blob/master/app/src/main/java/com/nightkyb/imageswitcherdemo/MainActivity.java)
 
-### Step 3
 
 
 
